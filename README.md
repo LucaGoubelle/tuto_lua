@@ -11,11 +11,11 @@ Simples tutorial exercices for Lua Language
 * functions
 * tables
 * module import
+* files reading
+* user input (scanf(); like...)
 
 ## to explore for the next commits
 
 * calculus
 * OOP 
-* files interaction (if possible...)
 * exception / error handle
-* user input (scanf(); like...)
