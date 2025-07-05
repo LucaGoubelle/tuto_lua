@@ -13,9 +13,9 @@ Simples tutorial exercices for Lua Language
 * module import
 * files reading
 * user input (scanf(); like...)
+* OOP 
 
 ## to explore for the next commits
 
 * calculus
-* OOP 
 * exception / error handle
