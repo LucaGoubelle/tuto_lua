@@ -12,6 +12,6 @@ print(maTable["x"]) ---> 10
 
 print(maTable[k])    ---> tall
 
-for k, v in pairs(maTable) do
+for k, v in pairs(maTable) do -- iterate over tables (key => value)
     print(k.." : "..v)
 end

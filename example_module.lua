@@ -1,3 +1,3 @@
-require "module.mymodule"
+require "module.mymodule" -- import custom module
 
-print(HelloWorld())
+print(HelloWorld()) -- call function of module
